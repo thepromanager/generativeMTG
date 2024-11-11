@@ -1,0 +1,2 @@
+# generativeMTG
+Create mtg cards
